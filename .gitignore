@@ -1,0 +1,10 @@
+# 本地环境
+*.log
+*.tmp
+.idea/
+.vscode/
+__pycache__/
+
+# 数据库导出（数据文件另行管理）
+*.sql.gz
+*.dump
